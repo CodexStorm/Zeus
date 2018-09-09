@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/welcome/transport-tracker/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/welcome/transport-tracker/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/welcome/Desktop/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/welcome/Desktop/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/welcome/Desktop/transport-tracker/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

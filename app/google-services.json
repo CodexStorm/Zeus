@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "593176845179",
+    "firebase_url": "https://zeus-1535649972579.firebaseio.com",
+    "project_id": "zeus-1535649972579",
+    "storage_bucket": "zeus-1535649972579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593176845179:android:b5599a8062cdeaf2",
+        "android_client_info": {
+          "package_name": "com.google.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593176845179-q0ciesbu2v878ahd06llme1dd29p1os5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqjIn7Vshw4cL0rjX7P2QLLGxUTesO2mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
