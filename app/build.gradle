@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
         applicationId "com.google.transporttracker"
@@ -39,6 +39,9 @@ dependencies {
     compile "com.google.firebase:firebase-config:$playServices"
     compile "com.google.firebase:firebase-crash:$playServices"
     compile "com.google.firebase:firebase-database:$playServices"
+    compile "com.google.android.gms:play-services-maps:$playServices"
+
+
 }
 
 apply plugin: 'com.google.gms.google-services'

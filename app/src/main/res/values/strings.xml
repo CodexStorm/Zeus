@@ -26,4 +26,6 @@
     <string name="transport_id" translatable="false">1234</string>
     <string name="email" translatable="false">manojkarthik11@gmail.com</string>
     <string name="password" translatable="false">24081997Max</string>
+    <string name="title_activity_maps">Map</string>
+
 </resources>

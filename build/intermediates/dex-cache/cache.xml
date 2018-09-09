@@ -39,6 +39,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.4_3c098cb2600cbbbe366175d9f5621e561df4d79c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.4_2f7928e8cac9f9ea3b73d53ad58fa6b8af68676c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,12 +66,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_5a053dc91c42462c11ee2392f970b6ce2acaf81b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.4_95e8116b3a222dbdeeebc0c5af7a78abb89d5f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
         <dex dex="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_53ef3c32be337d9a5541e5dd2e17299813944522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_d46fd96354d3d88df5d72af1d73adf336fe656a3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,12 +120,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.4_52091680f726f75a1b04681eea37bab95348a8a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.4_72720866bf2680b7bb1028d8ccfa93fc7c2c5bc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_b662d71fa0c0ee1a297ad4715ad3dc973332a644.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
         <dex dex="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.4_00aae8026dbe428e30576613e4b033fe2a066cde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.2.4_41f6ad3b7c5c5fadf1a1bdfe614bb958a52c3a2c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,6 +201,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_02477791aa6edecc84d9906bec7322799d26ea33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.4_40ca2044b2d46f5e13c1df56fbc622863df68f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -144,6 +243,24 @@
         revision="23.0.2"
         sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
         <dex dex="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.4_a2c3447ebd90916341432495b7c9f7b65f7978c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_c4980f68bf9b686d24015c76ec5f72d037733350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.4_8c683d25ea7c76822ee18bf803bb7e85c98c2f72.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,12 +291,57 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.4_104c397f881c2d17962eba2283a258f3aa5efd32.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="292a9fa091757208efa65e77eef63088247e51f3">
         <dex dex="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_eadcd3fc88596ac0ab0187b756236e3a65cbcb8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.4_79741cb0873919ac85e2a52bdb8a06ed01c0d05b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_d82dfdfc0ecf51188ce990df4d75f116c2981ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.4_60f82ffce077b0b57fc9da718ba3347097b2e955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_98b63d08b308beb2bdbaecb06ea0bc32e72dfa78.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,6 +354,33 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_103772a2a6106a0bea0ec89f9d84b930a7c562d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_2d0d643f83a27531d991df75e80ab148584920cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_92090124db204ac095f58fe6ac74f822c3d3450d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -201,12 +390,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.4_b274b5c23bfda4a8854c14292c5b5df711531bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
         <dex dex="/Users/welcome/Desktop/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.4_d81cdb70aac3d393293798d177f37c0c1ef838bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/welcome/Desktop/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_b6e191f913c2139fcc1ee760375eab8f25f49984.jar" />
     </item>
     <item
         is-multidex="false"

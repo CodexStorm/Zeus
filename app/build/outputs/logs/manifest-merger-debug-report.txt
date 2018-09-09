@@ -1,37 +1,82 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-61:12
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
+MERGED from [com.android.support:design:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/design-23.2.0.aar/4fb15ba2ce613aee9efe22e42cb89dbe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/c2c671fe95dd3e042f8d38a2380c4bf3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.0.aar/fd4a305e167407da6453cd7b413a342e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/85551892ac9efe8ece97e04c10d4c62b/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-auth:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.4.aar/20dc21e65f98420c1e689bceb96f8c8a/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-config:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.4.aar/810f53113f8f9f3d54dc5e19391f31fb/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.4.aar/b1d06a0f4d5c2024ac013ea5a3b7268b/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.4.aar/2f24a3803e523c02fcbef2af6a53131c/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-core:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.4.aar/a8107db00100468016b1cdf1c9a9c4c7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/09566b2a88204cf1b9d364e1600e6f6c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/3a2214cf1beccec5e7515b7d9cea85a5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.0.aar/ff962dee7e343ef18c2423c611f4c764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.4.aar/2258a2cbec176623e35b71ff4a7e61fd/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/cecd82e20377e3d78a6f29564809be85/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b280e2db8baa9bcc90aec1f1f086b460/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:24.0.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8cd46eb391ccebc061cca6aa4d40a53f/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
 	package
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:11-48
 		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
+		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:2:1-75:12
 		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:3:11-69
-	android:versionCode
-		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:5:5-78
 	android:name
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:6:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:19:5-78
 	android:name
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.INTERNET
 ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:7:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.4/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/AndroidManifest.xml:21:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.4/AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.4.aar/b1d06a0f4d5c2024ac013ea5a3b7268b/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.4.aar/b1d06a0f4d5c2024ac013ea5a3b7268b/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:7:22-64
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
@@ -48,249 +93,343 @@ ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:10:5-
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:10:22-92
 uses-permission#android.permission.WAKE_LOCK
 ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:11:5-68
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:21:5-67
 	android:name
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:11:22-65
 application
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:13:5-59:19
-MERGED from [com.android.support:cardview-v7:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.4/AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-location:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.firebase:firebase-auth:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.4/AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-config:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.4/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.4/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-core:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/10.2.4/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-	android:label
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:16:9-41
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:13:5-73:19
+MERGED from [com.android.support:design:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/design-23.2.0.aar/4fb15ba2ce613aee9efe22e42cb89dbe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/design-23.2.0.aar/4fb15ba2ce613aee9efe22e42cb89dbe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/c2c671fe95dd3e042f8d38a2380c4bf3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/c2c671fe95dd3e042f8d38a2380c4bf3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.0.aar/fd4a305e167407da6453cd7b413a342e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.0.aar/fd4a305e167407da6453cd7b413a342e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/85551892ac9efe8ece97e04c10d4c62b/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/85551892ac9efe8ece97e04c10d4c62b/AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-auth:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.4.aar/20dc21e65f98420c1e689bceb96f8c8a/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.4.aar/20dc21e65f98420c1e689bceb96f8c8a/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-config:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.4.aar/810f53113f8f9f3d54dc5e19391f31fb/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.4.aar/810f53113f8f9f3d54dc5e19391f31fb/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.4.aar/b1d06a0f4d5c2024ac013ea5a3b7268b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.4.aar/b1d06a0f4d5c2024ac013ea5a3b7268b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:24:5-19
+MERGED from [com.google.firebase:firebase-core:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.4.aar/a8107db00100468016b1cdf1c9a9c4c7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.4.aar/a8107db00100468016b1cdf1c9a9c4c7/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/09566b2a88204cf1b9d364e1600e6f6c/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/09566b2a88204cf1b9d364e1600e6f6c/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/3a2214cf1beccec5e7515b7d9cea85a5/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/3a2214cf1beccec5e7515b7d9cea85a5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/cecd82e20377e3d78a6f29564809be85/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/cecd82e20377e3d78a6f29564809be85/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b280e2db8baa9bcc90aec1f1f086b460/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b280e2db8baa9bcc90aec1f1f086b460/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8cd46eb391ccebc061cca6aa4d40a53f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8cd46eb391ccebc061cca6aa4d40a53f/AndroidManifest.xml:25:5-20
 	android:supportsRtl
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:17:9-35
-	android:allowBackup
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:16:9-41
 	android:icon
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
 		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:21:9-23:55
+	android:value
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:23:13-52
+	android:name
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:22:13-58
 service#com.google.transporttracker.TrackerService
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:20:9-24:19
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:25:9-29:19
 	android:enabled
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:22:13-35
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:27:13-35
 	android:exported
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:23:13-36
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:28:13-36
 	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:21:13-70
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:26:13-70
 activity#com.google.transporttracker.TrackerActivity
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:26:9-34:20
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:31:9-40:20
 	android:screenOrientation
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:29:13-55
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:34:13-55
 	android:label
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:28:13-56
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:27:13-71
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:30:13-33:29
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:32:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:31:17-68
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:31:25-66
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:32:17-76
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.google.transporttracker.MapsActivity
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:44:9-48:20
+	android:label
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:45:13-41
 receiver#com.google.transporttracker.TrackerBroadcastReceiver
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:36:9-49:20
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:50:9-63:20
 	android:enabled
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:38:13-35
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:52:13-35
 	android:exported
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:39:13-36
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:37:13-80
-intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:40:13-42:29
-action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:41:17-78
-	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:41:25-76
-intent-filter#.TrackerActivity.ALARM_ACTION_START
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:43:13-45:29
-action#.TrackerActivity.ALARM_ACTION_START
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:44:17-77
-	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:44:25-75
-intent-filter#.TrackerActivity.ALARM_ACTION_END
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:46:13-48:29
-action#.TrackerActivity.ALARM_ACTION_END
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:47:17-75
-	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:47:25-73
-service#com.google.transporttracker.TrackerTaskService
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:51:9-57:19
-	android:exported
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:53:18-41
-	android:permission
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:52:18-98
-	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:51:18-79
-intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:51:13-80
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
 ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:54:13-56:29
-action#com.google.android.gms.gcm.ACTION_TASK_READY
-ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:55:17-86
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:55:17-78
 	android:name
-		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:55:25-84
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:55:25-76
+intent-filter#action:name:.TrackerActivity.ALARM_ACTION_START
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:57:13-59:29
+action#com.google.transporttracker.TrackerActivity.ALARM_ACTION_START
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:58:25-75
+intent-filter#action:name:.TrackerActivity.ALARM_ACTION_END
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:60:13-62:29
+action#com.google.transporttracker.TrackerActivity.ALARM_ACTION_END
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:61:17-75
+	android:name
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:61:25-73
+service#com.google.transporttracker.TrackerTaskService
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:65:9-71:19
+	android:exported
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:67:18-41
+	android:permission
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:66:18-98
+	android:name
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:65:18-79
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:68:13-70:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:69:17-86
+	android:name
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml:69:25-84
 uses-sdk
 INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:cardview-v7:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:5:5-43
-MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-location:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-auth:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-config:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.4/AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-database:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-core:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/10.2.4/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/design-23.2.0.aar/4fb15ba2ce613aee9efe22e42cb89dbe/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/design-23.2.0.aar/4fb15ba2ce613aee9efe22e42cb89dbe/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/c2c671fe95dd3e042f8d38a2380c4bf3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/c2c671fe95dd3e042f8d38a2380c4bf3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.0.aar/fd4a305e167407da6453cd7b413a342e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.2.0.aar/fd4a305e167407da6453cd7b413a342e/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/85551892ac9efe8ece97e04c10d4c62b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/85551892ac9efe8ece97e04c10d4c62b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.4.aar/20dc21e65f98420c1e689bceb96f8c8a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.4.aar/20dc21e65f98420c1e689bceb96f8c8a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.4.aar/810f53113f8f9f3d54dc5e19391f31fb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.4.aar/810f53113f8f9f3d54dc5e19391f31fb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.4.aar/b1d06a0f4d5c2024ac013ea5a3b7268b/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.4.aar/b1d06a0f4d5c2024ac013ea5a3b7268b/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.4.aar/2f24a3803e523c02fcbef2af6a53131c/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.4.aar/2f24a3803e523c02fcbef2af6a53131c/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:23:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.4.aar/a8107db00100468016b1cdf1c9a9c4c7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.4.aar/a8107db00100468016b1cdf1c9a9c4c7/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/09566b2a88204cf1b9d364e1600e6f6c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/09566b2a88204cf1b9d364e1600e6f6c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/3a2214cf1beccec5e7515b7d9cea85a5/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/3a2214cf1beccec5e7515b7d9cea85a5/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.0.aar/ff962dee7e343ef18c2423c611f4c764/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.0.aar/ff962dee7e343ef18c2423c611f4c764/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.4.aar/2258a2cbec176623e35b71ff4a7e61fd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.4.aar/2258a2cbec176623e35b71ff4a7e61fd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/cecd82e20377e3d78a6f29564809be85/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/cecd82e20377e3d78a6f29564809be85/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b280e2db8baa9bcc90aec1f1f086b460/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b280e2db8baa9bcc90aec1f1f086b460/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8cd46eb391ccebc061cca6aa4d40a53f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8cd46eb391ccebc061cca6aa4d40a53f/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.2.0] /Users/welcome/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/c2c671fe95dd3e042f8d38a2380c4bf3/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/welcome/Desktop/android/app/src/main/AndroidManifest.xml
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.4/AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/AndroidManifest.xml:20:5-81
-MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:22:5-81
+ADDED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/bcbc1d3514b41162acfee8a1dd8957af/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.4/AndroidManifest.xml:20:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/a6b85f404a67688ee167c89b7dd6d151/AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/14799bb07fb19fc56243c7519125a463/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/632fe7fff9d1b11593770465e0264203/AndroidManifest.xml:19:19-85
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:27:17-104
-intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:28:11-30:27
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.4.aar/e953b882954ba69c9572573b2add40c8/AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.4.aar/74cfeb2e3572fb96f0e22f916d613e52/AndroidManifest.xml:32:16-87
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:24:17-71
+permission#com.google.transporttracker.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:26:22-76
+uses-permission#com.google.transporttracker.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:30:9-35:20
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:30:9-35:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:30:19-84
-intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:31:13-34:29
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.google.transporttracker
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:31:13-34:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:32:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:33:17-60
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:33:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:33:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:33:27-58
+category#com.google.transporttracker
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:33:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:39:9-119
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:39:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:39:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:39:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:39:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:39:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:43:9-47:19
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:43:9-47:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:43:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:43:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:43:18-82
-intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:44:13-46:29
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:44:13-46:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:44:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:44:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:45:17-79
+ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:45:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/AndroidManifest.xml:45:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.4.aar/c21e5e2a2d9a3de925cf4072c02d6aa8/AndroidManifest.xml:45:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.4.aar/2b8ab05913ab2f6a5cfcc70d469b28b7/AndroidManifest.xml:6:79-143
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b280e2db8baa9bcc90aec1f1f086b460/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b280e2db8baa9bcc90aec1f1f086b460/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/Desktop/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/welcome/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b280e2db8baa9bcc90aec1f1f086b460/AndroidManifest.xml:20:20-65

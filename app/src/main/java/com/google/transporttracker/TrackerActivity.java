@@ -38,13 +38,13 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SwitchCompat;
-import android.text.method.PasswordTransformationMethod;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -63,6 +63,7 @@ public class TrackerActivity extends AppCompatActivity {
     private SwitchCompat mSwitch;
     private Snackbar mSnackbarPermissions;
     private Snackbar mSnackbarGps;
+    private ImageView ivMap;
 
     /**
      * Configures UI elements, and starts validation if inputs have previously been entered.
@@ -78,7 +79,7 @@ public class TrackerActivity extends AppCompatActivity {
                 checkInputFields();
             }
         });
-
+        ivMap = (ImageView)findViewById(R.id.ivMap);
         mTransportIdEditText = (EditText) findViewById(R.id.transport_id);
         mEmailEditText = (EditText) findViewById(R.id.email);
         mPasswordEditText = (EditText) findViewById(R.id.password);
@@ -105,6 +106,14 @@ public class TrackerActivity extends AppCompatActivity {
             mEmailEditText.setText(getString(R.string.build_email));
             mPasswordEditText.setText(getString(R.string.build_password));
         }
+
+        ivMap.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(getApplicationContext(),MapsActivity.class);
+                startActivity(i);
+            }
+        });
 
     }
 

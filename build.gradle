@@ -4,9 +4,10 @@ buildscript {
     repositories {
         mavenLocal()
         jcenter()
+        google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.2'
+        classpath 'com.android.tools.build:gradle:3.1.4'
         classpath 'com.google.gms:google-services:3.0.0'
     }
 }
